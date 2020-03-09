@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Elaine Rushmore",
+    "country": "United Kingdom",
+    "occupation": "blacksmith"
+  },
+  {
+    "id": 2,
+    "name": "Ryan Drush",
+    "country": "United State of America",
+    "occupation": "hairdresser"
+  },
+  {
+    "id": 3,
+    "name": "Alex Smith",
+    "country": "United Kingdom",
+    "occupation": "floor manager"
+  }
+]
